@@ -1,0 +1,15 @@
+[submodule "infrastructure"]
+	path = infrastructure
+	url = git@github.com:MariaWinged/online_cinema_infra.git
+[submodule "admin_panel"]
+	path = admin_panel
+	url = git@github.com:MariaWinged/online_cinema_dango_app.git
+[submodule "etl"]
+	path = etl
+	url = git@github.com:MariaWinged/online_cinema_etl.git
+[submodule "fastapi_solution"]
+	path = fastapi_solution
+	url = git@github.com:MariaWinged/online_cinema_fastapi.git
+[submodule "auth"]
+	path = auth
+	url = git@github.com:MariaWinged/online_cinema_flask_app.git
